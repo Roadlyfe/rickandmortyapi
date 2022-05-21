@@ -1,3 +1,7 @@
+*{
+  background-color: #03045e
+}
+
 .App {
   text-align: center;
 }
@@ -28,6 +32,7 @@
   color: #61dafb;
 }
 
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -35,4 +40,23 @@
   to {
     transform: rotate(360deg);
   }
+}
+h1 {
+  font-size: 4rem;
+  color: #caf0f8
+}
+
+h2 {
+  font-size: 2rem;
+  color:#90e0ef
+}
+
+p {
+  font-size: 1.5rem;
+  color: #0077b6;
+}
+
+button {
+  font-size: 1.2rem;
+  background-color: #00b4d8;
 }
